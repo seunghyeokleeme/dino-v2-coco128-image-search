@@ -62,4 +62,4 @@ The notebook demonstrates how to:
 ## ⚖️ License & Attribution  
 - **This repo (MIT)** — see LICENSE  
 - **DINOv2 (Apache 2.0)** — https://github.com/facebookresearch/dinov2/blob/main/LICENSE  
-- **FAISS (BSD-style)** — https://github.com/facebookresearch/faiss/blob/main/LICENSE  
+- **FAISS (MIT)** — https://github.com/facebookresearch/faiss/blob/main/LICENSE  
