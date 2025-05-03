@@ -62,3 +62,6 @@ The notebook demonstrates how to:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project: MIT License — see [LICENSE](LICENSE)
+
+Third-Party: see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
