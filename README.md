@@ -59,8 +59,7 @@ The notebook demonstrates how to:
 - Perform similarity searches to find visually similar images
 - Visualize the results
 
-## 📝 License
-
-This project: MIT License — see [LICENSE](LICENSE)
-
-Third-Party: see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
+## ⚖️ License & Attribution  
+- **This repo (MIT)** — see LICENSE  
+- **DINOv2 (Apache 2.0)** — https://github.com/facebookresearch/dinov2/blob/main/LICENSE  
+- **FAISS (BSD-style)** — https://github.com/facebookresearch/faiss/blob/main/LICENSE  
